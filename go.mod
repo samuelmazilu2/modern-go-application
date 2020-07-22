@@ -39,5 +39,4 @@ require (
 	google.golang.org/grpc v1.29.1
 	logur.dev/adapter/logrus v0.5.0
 	logur.dev/integration/watermill v0.5.0
-	logur.dev/logur v0.16.2
 )
